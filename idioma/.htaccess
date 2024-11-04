@@ -1,0 +1,7 @@
+Options +MultiViews
+DirectoryIndex index.html
+AddLanguage es .es
+AddLanguage en .en
+LanguagePriority es en
+ForceLanguagePriority Prefer Fallback
+#InvalidCommand
